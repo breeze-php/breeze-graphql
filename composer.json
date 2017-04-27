@@ -1,0 +1,13 @@
+{
+    "name": "breeze-php/breeze-graphql",
+    "description": "A simple graphql layer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suh Du",
+            "email": "suhdu@protonmail.com"
+        }
+    ],
+    "require": {}
+}
