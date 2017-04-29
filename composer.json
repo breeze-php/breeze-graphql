@@ -9,5 +9,10 @@
             "email": "suhdu@protonmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "Breeze\\GraphQL\\": "src/"
+        }
+    }
 }
