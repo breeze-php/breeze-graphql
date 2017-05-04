@@ -10,7 +10,7 @@
         }
     ],
     "require": {},
-    "autoload-dev": {
+    "autoload": {
         "psr-4": {
             "Breeze\\GraphQL\\": "src/"
         }
